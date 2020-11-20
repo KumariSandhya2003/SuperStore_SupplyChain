@@ -1,4 +1,5 @@
 ###### SuperStore_SupplyChain
+Github Pages for the same repo : https://kumarisandhya2003.github.io/SuperStore_SupplyChain/
 
 SuperstoreOrders data  excel file is added to take a look at raw data.
 
