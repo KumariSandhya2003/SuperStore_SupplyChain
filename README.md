@@ -10,3 +10,4 @@ Also, it is published here - https://public.tableau.com/profile/sandhya.kumari#!
 
 Predictive Modelling including Statistical analysis is in GlobalSuperStore.ipynb that can be opened in Jupyter notebook. Also, GlobalSuperStore.ipynb is presented as a web page and can be opened in browser by clicking on GlobalSuperStore.html
 
+Github Pages for the same repo : https://kumarisandhya2003.github.io/SuperStore_SupplyChain/
