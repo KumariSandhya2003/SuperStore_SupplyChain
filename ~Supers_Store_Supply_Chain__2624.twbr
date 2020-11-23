@@ -5783,7 +5783,7 @@
               <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='92777' id='1' param='vert' removable='false' w='99000' x='500' y='6334'>
                 <zone _.fcp.SetMembershipControl.false...type='flipboard-nav' _.fcp.SetMembershipControl.true...type-v2='flipboard-nav' h='11222' id='4' is-fixed='true' paired-zone-id='5' removable='false' w='99000' x='500' y='6334' />
                 <zone _.fcp.SetMembershipControl.false...type='flipboard' _.fcp.SetMembershipControl.true...type-v2='flipboard' h='81555' id='5' paired-zone-id='4' removable='false' w='99000' x='500' y='17556'>
-                  <flipboard active-id='19' nav-type='caption' show-nav-arrows='true'>
+                  <flipboard active-id='11' nav-type='caption' show-nav-arrows='true'>
                     <story-points>
                       <story-point caption='Title: Sales &amp; Profit  Analysis ' captured-sheet='IntroPage' id='16' />
                       <story-point caption='Objective' captured-sheet='Objective' id='17' />
@@ -5875,7 +5875,7 @@ R-Squared: 22.89</run>
             <run bold='true' fontcolor='#333333' fontname='Tableau Light' fontsize='15' underline='true'>Æ </run>
           </formatted-text>
         </zone>
-        <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' flipboard-zone-id='5' forceUpdate='true' h='3255' hidden='true' id='19' story-point-id='11' w='51903' x='24890' y='18099'>
+        <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' flipboard-zone-id='5' forceUpdate='true' h='3255' id='19' story-point-id='11' w='51903' x='24890' y='18099'>
           <formatted-text>
             <run bold='true' fontname='Arial Black' fontsize='11' underline='true'>Story Point:8-</run>
             <run bold='true' fontcolor='#333333' fontname='Arial Black' fontsize='11' underline='true'>Region Wise Quantity, Discount, Sales &amp; Profit/Loss</run>
@@ -5903,9 +5903,9 @@ R-Squared: 22.89</run>
     </dashboard>
   </dashboards>
   <windows source-height='37'>
-    <window class='dashboard' name='Sales Analysis Story'>
+    <window class='dashboard' maximized='true' name='Sales Analysis Story'>
       <viewpoints />
-      <active id='5' />
+      <active id='-1' />
       <simple-id uuid='{D8396B4C-E5F1-478C-9D3A-D86EED683643}' />
     </window>
     <window class='worksheet' name='Total Orders'>
@@ -6663,7 +6663,7 @@ R-Squared: 22.89</run>
     </window>
     <window class='dashboard' name='Objective'>
       <viewpoints />
-      <active id='3' />
+      <active id='-1' />
       <simple-id uuid='{53DD8CC9-F45B-4B49-B6E5-6F43CAC54E42}' />
     </window>
     <window class='worksheet' name='Orders &amp; Ship Mode'>
@@ -6992,7 +6992,7 @@ R-Squared: 22.89</run>
     </window>
     <window class='dashboard' name='KPIs'>
       <viewpoints />
-      <active id='3' />
+      <active id='-1' />
       <simple-id uuid='{6674C6E8-8B2F-4E3F-8EFF-223F56D5BAF5}' />
     </window>
     <window class='dashboard' name='Conclusion'>
@@ -7000,7 +7000,7 @@ R-Squared: 22.89</run>
       <active id='-1' />
       <simple-id uuid='{E427DDAC-0B91-4024-B0FC-E3964CA2CAF3}' />
     </window>
-    <window class='dashboard' maximized='true' name='Predictive Modeling'>
+    <window class='dashboard' name='Predictive Modeling'>
       <viewpoints />
       <active id='-1' />
       <simple-id uuid='{AEBE27D9-E55C-476B-9E6F-C98F7FC2FF60}' />
