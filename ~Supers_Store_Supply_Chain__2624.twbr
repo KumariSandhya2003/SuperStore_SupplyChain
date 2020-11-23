@@ -5735,22 +5735,7 @@
       <style />
       <size sizing-mode='automatic' />
       <zones>
-        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
-          <zone _.fcp.SetMembershipControl.false...type='web' _.fcp.SetMembershipControl.true...type-v2='web' forceUpdate='' h='98142' id='5' param='https://kumarisandhya2003.github.io/SuperStore_SupplyChain/GlobalSuperStore.html' w='99034' x='483' y='929'>
-            <zone-style>
-              <format attr='border-color' value='#000000' />
-              <format attr='border-style' value='none' />
-              <format attr='border-width' value='0' />
-              <format attr='margin' value='4' />
-            </zone-style>
-          </zone>
-          <zone-style>
-            <format attr='border-color' value='#000000' />
-            <format attr='border-style' value='none' />
-            <format attr='border-width' value='0' />
-            <format attr='margin' value='8' />
-          </zone-style>
-        </zone>
+        <zone _.fcp.SetMembershipControl.false...type='web' _.fcp.SetMembershipControl.true...type-v2='web' forceUpdate='' h='33333' id='3' param='about:blank' w='33313' x='15208' y='48200' />
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
@@ -5920,7 +5905,7 @@ R-Squared: 22.89</run>
     </dashboard>
   </dashboards>
   <windows source-height='37'>
-    <window class='dashboard' maximized='true' name='Sales Analysis Story'>
+    <window class='dashboard' name='Sales Analysis Story'>
       <viewpoints />
       <active id='5' />
       <simple-id uuid='{D8396B4C-E5F1-478C-9D3A-D86EED683643}' />
@@ -7017,9 +7002,9 @@ R-Squared: 22.89</run>
       <active id='-1' />
       <simple-id uuid='{E427DDAC-0B91-4024-B0FC-E3964CA2CAF3}' />
     </window>
-    <window class='dashboard' name='Predictive Modeling'>
+    <window class='dashboard' maximized='true' name='Predictive Modeling'>
       <viewpoints />
-      <active id='-1' />
+      <active id='3' />
       <simple-id uuid='{AEBE27D9-E55C-476B-9E6F-C98F7FC2FF60}' />
     </window>
   </windows>
