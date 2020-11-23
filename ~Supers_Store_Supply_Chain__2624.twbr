@@ -5583,45 +5583,6 @@
       </devicelayouts>
       <simple-id uuid='{D098D990-2209-45B9-A854-9E7D6D0638EA}' />
     </dashboard>
-    <dashboard name='Dashboard 5'>
-      <style />
-      <size maxheight='800' maxwidth='1000' minheight='800' minwidth='1000' />
-      <zones>
-        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
-          <zone _.fcp.SetMembershipControl.false...type='web' _.fcp.SetMembershipControl.true...type-v2='web' forceUpdate='' h='98000' id='5' param='https://kumarisandhya2003.github.io/SuperStore_SupplyChain/GlobalSuperStore.html' w='98400' x='800' y='1000'>
-            <zone-style>
-              <format attr='border-color' value='#000000' />
-              <format attr='border-style' value='none' />
-              <format attr='border-width' value='0' />
-              <format attr='margin' value='4' />
-            </zone-style>
-          </zone>
-          <zone-style>
-            <format attr='border-color' value='#000000' />
-            <format attr='border-style' value='none' />
-            <format attr='border-width' value='0' />
-            <format attr='margin' value='8' />
-          </zone-style>
-        </zone>
-      </zones>
-      <devicelayouts>
-        <devicelayout auto-generated='true' name='Phone'>
-          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
-          <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='2' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='1' param='vert' w='84000' x='8000' y='8000' />
-              <zone-style>
-                <format attr='border-color' value='#000000' />
-                <format attr='border-style' value='none' />
-                <format attr='border-width' value='0' />
-                <format attr='margin' value='8' />
-              </zone-style>
-            </zone>
-          </zones>
-        </devicelayout>
-      </devicelayouts>
-      <simple-id uuid='{5BACC6C2-5AB3-4A42-9D78-C0A93016AC20}' />
-    </dashboard>
     <dashboard name='IntroPage'>
       <repository-location derived-from='https://public.tableau.com/workbooks/Supers_Store_Supply_Chain/Dashboard1?rev=' id='Dashboard1' path='/workbooks/Supers_Store_Supply_Chain' revision='' />
       <style />
@@ -5770,6 +5731,45 @@
       </devicelayouts>
       <simple-id uuid='{2C95F972-3A8F-4FB9-9FA0-B2B97CEBFBE4}' />
     </dashboard>
+    <dashboard name='Predictive Modeling'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
+          <zone _.fcp.SetMembershipControl.false...type='web' _.fcp.SetMembershipControl.true...type-v2='web' forceUpdate='' h='98142' id='5' param='https://kumarisandhya2003.github.io/SuperStore_SupplyChain/GlobalSuperStore.html' w='99034' x='483' y='929'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='2' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='1' param='vert' w='84000' x='8000' y='8000' />
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{5BACC6C2-5AB3-4A42-9D78-C0A93016AC20}' />
+    </dashboard>
     <dashboard name='Sales Analysis Story' type='storyboard'>
       <layout-options>
         <title>
@@ -5800,7 +5800,7 @@
               <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='92777' id='1' param='vert' removable='false' w='99000' x='500' y='6334'>
                 <zone _.fcp.SetMembershipControl.false...type='flipboard-nav' _.fcp.SetMembershipControl.true...type-v2='flipboard-nav' h='11222' id='4' is-fixed='true' paired-zone-id='5' removable='false' w='99000' x='500' y='6334' />
                 <zone _.fcp.SetMembershipControl.false...type='flipboard' _.fcp.SetMembershipControl.true...type-v2='flipboard' h='81555' id='5' paired-zone-id='4' removable='false' w='99000' x='500' y='17556'>
-                  <flipboard active-id='14' nav-type='caption' show-nav-arrows='true'>
+                  <flipboard active-id='19' nav-type='caption' show-nav-arrows='true'>
                     <story-points>
                       <story-point caption='Title: Sales &amp; Profit  Analysis ' captured-sheet='IntroPage' id='16' />
                       <story-point caption='Objective' captured-sheet='Objective' id='17' />
@@ -5834,6 +5834,7 @@
                       <story-point caption='8.A complete analysis of sales, quantity, profit and discount in each segment. Consumer segment is flourishing in all four measures in four regions with an exception of Profit measure in the Central region which is really low compared to other regions and it&apos;s worth to notice that discount rate in central is higher compared to other regions. Number of category by segment and region can be seen in the tooltip.' captured-sheet='Sales Analysis' id='11' />
                       <story-point caption='9. Average Revenue per unit in each segment is being shown here and though Sales is higher in western region for consumer &amp; home Office segment, eastern region has higher revenue per unit. Thus, western is ahead of eastern in only corporate segment and South is performing better in central Statewise quantity can be seen in the tooltip.' captured-sheet='Revenue By Segment' id='15' />
                       <story-point caption='10.Profit &amp; Loss frequency by month over  month  depicts that the profit isn’t steady and is varying hugely every month. So, the accounting processes could be improved for better representation.' captured-sheet='P/L Frequency' id='13' />
+                      <story-point caption='Predictive Modelling' captured-sheet='Predictive Modeling' id='19' />
                       <story-point caption='Conclusions /Findings:' captured-sheet='Conclusion' id='14' />
                     </story-points>
                   </flipboard>
@@ -5919,9 +5920,9 @@ R-Squared: 22.89</run>
     </dashboard>
   </dashboards>
   <windows source-height='37'>
-    <window class='dashboard' name='Sales Analysis Story'>
+    <window class='dashboard' maximized='true' name='Sales Analysis Story'>
       <viewpoints />
-      <active id='-1' />
+      <active id='5' />
       <simple-id uuid='{D8396B4C-E5F1-478C-9D3A-D86EED683643}' />
     </window>
     <window class='worksheet' name='Total Orders'>
@@ -7016,7 +7017,7 @@ R-Squared: 22.89</run>
       <active id='-1' />
       <simple-id uuid='{E427DDAC-0B91-4024-B0FC-E3964CA2CAF3}' />
     </window>
-    <window class='dashboard' maximized='true' name='Dashboard 5'>
+    <window class='dashboard' name='Predictive Modeling'>
       <viewpoints />
       <active id='-1' />
       <simple-id uuid='{AEBE27D9-E55C-476B-9E6F-C98F7FC2FF60}' />
