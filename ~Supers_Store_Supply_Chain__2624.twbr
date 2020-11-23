@@ -5734,9 +5734,7 @@
     <dashboard name='Predictive Modeling'>
       <style />
       <size sizing-mode='automatic' />
-      <zones>
-        <zone _.fcp.SetMembershipControl.false...type='web' _.fcp.SetMembershipControl.true...type-v2='web' forceUpdate='' h='33333' id='3' param='about:blank' w='33313' x='15208' y='48200' />
-      </zones>
+      <zones />
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
@@ -7004,7 +7002,7 @@ R-Squared: 22.89</run>
     </window>
     <window class='dashboard' maximized='true' name='Predictive Modeling'>
       <viewpoints />
-      <active id='3' />
+      <active id='-1' />
       <simple-id uuid='{AEBE27D9-E55C-476B-9E6F-C98F7FC2FF60}' />
     </window>
   </windows>
