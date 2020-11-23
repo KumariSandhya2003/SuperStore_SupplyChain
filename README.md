@@ -1,7 +1,7 @@
 ###### SuperStore_SupplyChain
 
 Github Pages for the same repo : https://kumarisandhya2003.github.io/SuperStore_SupplyChain/
-I’m analyzing Sample superstore dataset and my objective is to do Sales and profit Analysis to determine, Segment and category wise regional performances that will help to derive areas of improvement and resource management for a superstore company.  The data was mostly cleaned but I created calculated fields to understand the data and perform the analysis. Few KPIs that I kept in mind while creating  charts in Tableau was to see total orders by states in each region, the trend of order and sales, performance of Sales & profit across the country, most used segment & category and lastly, profit & loss frequency over months.
+Here, superstore dataset is analyzed with an objective to do Sales and profit Analysis to determine, Segment and category wise regional performances that will help to derive areas of improvement and resource management for a superstore company.  The data was mostly cleaned but I created calculated fields to understand the data and perform the analysis. Few KPIs that I kept in mind while creating  charts in Tableau was to see total orders by states in each region, the trend of order and sales, performance of Sales & profit across the country, most used segment & category and lastly, profit & loss frequency over months.
 
 SuperstoreOrders data excel file is added to take a look at raw data. 
 
